@@ -1,0 +1,29 @@
+#当前应用系统的端口号与上下文路径
+server:
+  port: 8888
+  servlet:
+    context-path: /app
+
+#Actuator监控的端口号与上下文路径,指定的监控终端的基本访问路径默认为/actuator
+management:
+  server:
+    port: 9999
+    servlet:
+      context-path: /xxx
+  endpoints:
+    web:
+      base-path: /base
+      exposure:
+        include: "*"
+
+
+#自定义info信息
+info:
+  name: zhangchaoyue
+  url:  /fasdf/fdsaf
+  address: beijing
+#读取pom文件
+  projectId: @project.groupId@
+  artifactId: @project.artifactId@
+
+
