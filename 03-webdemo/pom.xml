@@ -8,10 +8,11 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <groupId>com.yueyang</groupId>
+    <artifactId>03-webdemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
+    <packaging>war</packaging>
+    <name>03-webdemo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -34,6 +35,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
