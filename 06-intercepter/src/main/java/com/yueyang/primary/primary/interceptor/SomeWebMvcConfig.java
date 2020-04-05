@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
 
 /**
  * @program: 01-primary
- * @description:
+ * @description: 配置类
  * @author: qinxiangyang
  * @create: 2020-04-05 18:08
  **/
