@@ -10,6 +10,7 @@
         <module name="04-readconfig" />
         <module name="06-intercepter" />
         <module name="03-webdemo" />
+        <module name="05-servlet" />
         <module name="02-multienv" />
         <module name="idea-work" />
         <module name="01-primary" />
@@ -25,6 +26,7 @@
       <module name="02-multienv" options="-parameters" />
       <module name="03-webdemo" options="-parameters" />
       <module name="04-readconfig" options="-parameters" />
+      <module name="05-servlet" options="-parameters" />
       <module name="06-intercepter" options="-parameters" />
       <module name="web" options="-parameters" />
     </option>

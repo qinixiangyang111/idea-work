@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/03-webdemo/pom.xml" />
         <option value="$PROJECT_DIR$/04-readconfig/pom.xml" />
         <option value="$PROJECT_DIR$/06-intercepter/pom.xml" />
+        <option value="$PROJECT_DIR$/05-servlet/pom.xml" />
       </list>
     </option>
   </component>
