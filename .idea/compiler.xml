@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="web" />
         <module name="04-readconfig" />
+        <module name="06-intercepter" />
         <module name="03-webdemo" />
         <module name="02-multienv" />
         <module name="idea-work" />
@@ -24,6 +25,7 @@
       <module name="02-multienv" options="-parameters" />
       <module name="03-webdemo" options="-parameters" />
       <module name="04-readconfig" options="-parameters" />
+      <module name="06-intercepter" options="-parameters" />
       <module name="web" options="-parameters" />
     </option>
   </component>

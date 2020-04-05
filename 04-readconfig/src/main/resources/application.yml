@@ -31,7 +31,9 @@ spring:
     view:
       prefix: /
       suffix: .jsp
-logging:
-  pattern:
-    console: appname:%level %msg%n
-  level: info
+#logging:
+#  pattern:
+#    console: appname:%level %msg%n
+#  level: info
+
+
